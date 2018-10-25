@@ -1,0 +1,13 @@
+Index: test_platform/user_app/apps.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test_platform/user_app/apps.py	(revision ae7d3b2844d252df06ffeca88ca32ef17b31cea5)
++++ test_platform/user_app/apps.py	(revision )
+@@ -3,3 +3,4 @@
+ 
+ class UserAppConfig(AppConfig):
+     name = 'user_app'
++#this is test
+\ No newline at end of file
